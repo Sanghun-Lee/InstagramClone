@@ -12,7 +12,7 @@ export default class AppMediaTab extends Component {
   render() {
     return (
       <View style={style.container}>
-        <Text>HomeTab</Text>
+        <Text>AppMediaTab</Text>
       </View>
     );
   }

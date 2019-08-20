@@ -11,7 +11,7 @@ export default class SearchTab extends Component {
   render() {
     return (
       <View style={style.container}>
-        <Text>HomeTab</Text>
+        <Text>SearchTab</Text>
       </View>
     );
   }

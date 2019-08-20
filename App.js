@@ -11,3 +11,12 @@ const AppStackNavigator = createStackNavigator({
 });
 
 export default createAppContainer(AppStackNavigator);
+
+/*
+  * 리액트 네이티브 인스타그램 UI 클론코딩
+  * 블로그 : https://velog.io/@anpigon/React-Native-UI-%EB%A7%8C%EB%93%A4%EA%B8%B0-1
+  * 사용되는 컴포넌트
+  ! yarn add native-base @expo/vector-icons
+  ! yarn add react-navigation
+  ! npm install
+*/

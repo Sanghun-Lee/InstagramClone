@@ -12,7 +12,7 @@ export default class ProfileTab extends Component {
   render() {
     return (
       <View style={style.container}>
-        <Text>HomeTab</Text>
+        <Text>ProfileTab</Text>
       </View>
     );
   }
