@@ -27,7 +27,7 @@ export default class CardComponent extends Component {
           <Left>
             <Thumbnail
               source={{
-                uri: "https://steemitimages.com/u/${data.author}/avatar"
+                uri: `https://steemitimages.com/u/${data.author}/avatar`
               }}
             />
             <Body>
